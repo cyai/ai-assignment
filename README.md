@@ -12,8 +12,6 @@ Here you'll find code created by humans for the assigned questions.
 
 ## Usage
 
-## Usage
-
 1. Fork this repository by clicking on the "Fork" button at the top right of the repository page. This will create a copy of the repository in your GitHub account.
    ![Forking the repository](/public/img/fork.png)
 
