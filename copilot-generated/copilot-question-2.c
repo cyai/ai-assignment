@@ -1,6 +1,6 @@
 /*
-Write a C program to perform modular exponentiation of two numbers x and y modulo m. 
-(Compute (x^y) % m efficiently using the repeated squaring method).
+Write a C program to perform modular exponentiation of two numbers x and y
+modulo m. (Compute (x^y) % m efficiently using the repeated squaring method).
 */
 #include <stdio.h>
 
