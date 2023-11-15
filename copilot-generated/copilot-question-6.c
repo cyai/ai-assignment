@@ -29,3 +29,9 @@ int main() {
     printf("phi(%d) = %d\n", n, phi(n));
     return 0;
 }
+
+/*
+Intrepretation:
+
+The generated code when compared to the code that a human has written dose not use standard vaiable and function naming practices. The code does print the results in the proper format for better user exprience. It could have ignored the {} for one line conditional statements. 
+*/

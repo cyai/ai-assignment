@@ -24,3 +24,10 @@ int main() {
 
     return 0;
 }
+
+
+/*
+Interpretation:
+
+This generation is written for a general case senario where the range of the numbers is not known. This could be handelled by proper prompt enginnering. It assusmes the start and end values are 1 and 100 respectively. While the one written by the teammate is more specific and asks for the range of the numbers. 
+*/

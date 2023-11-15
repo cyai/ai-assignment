@@ -31,3 +31,9 @@ int main() {
 
     return 0;
 }
+
+/*
+Intrepretation:
+
+The generated code is correct. The code is not very efficient, but it is correct. It dose not follow the standard function and variable naming structure. It tries to go with the optimal code rather than optimal user exprience.
+*/

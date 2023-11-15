@@ -18,3 +18,10 @@ int main() {
     }
     return 0;
 }
+
+
+/*
+Intrepretation:
+
+This code uses the brute force method to find the LCM of two numbers. It is not the most efficient way to find the LCM of two numbers. The code might fall into infinite loop and could run forever. Also it takes the numbers at once and dose not handel edge cases such as if the user enters a character instead of a number or weather the number is negative or positive.
+*/
