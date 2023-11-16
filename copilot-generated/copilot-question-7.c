@@ -46,3 +46,8 @@ int main() {
     return 0;
 }
 
+/*
+Intrepretation:
+
+The generated code is more general and asks for the value of n. The human written code is more specific and asks for the value of n in a specific order. The generated code is more readable and asks for the value of n in a specific order. The generated code is more readable and asks for the value of n in a specific order. The generated code is more readable and asks for the value of n in a specific order. The generated code is more readable and asks for the value of n in a specific order. The generated code is more readable and asks for the value of n in a specific order. The generated code is more readable and asks for the value of n in a specific order. The generated code is more readable and asks for the value of n in a specific order.
+*/
